@@ -1,7 +1,7 @@
 package demo
 
 // AppleFactory 苹果工厂
-type AppleFactory struct {}
+type AppleFactory struct{}
 
 // CreateFruit 创建水果
 func (f *AppleFactory) CreateFruit() Fruit {
@@ -9,7 +9,7 @@ func (f *AppleFactory) CreateFruit() Fruit {
 }
 
 // Apple 苹果
-type Apple struct {}
+type Apple struct{}
 
 // GetName 获取名称
 func (a Apple) GetName() string {
