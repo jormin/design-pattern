@@ -110,8 +110,12 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 - [ ] demo
 - [ ] 实例
 
-
 参考
 -----
 
 1. [Golang设计模式总结](https://zhuanlan.zhihu.com/p/437626980)
+
+License
+-------
+
+Under the [MIT](./LICENSE) License
