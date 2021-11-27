@@ -55,7 +55,7 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 1. [知乎-Golang设计模式总结](https://zhuanlan.zhihu.com/p/437626980)
 2. [菜鸟-设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 
-3. License
+License
 -------
 
 Under the [MIT](./LICENSE) License
