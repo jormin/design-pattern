@@ -15,7 +15,7 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 | ---- | ------------ | ------ | ---- | ---- | ---- |
 | 01   | 工厂模式 | Factory Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/factory-pattern.html) |   ✅   |      |
 | 02    | 抽象工厂模式 | Abstract Factory Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/abstract-factory-pattern.html) |   ✅   |      |
-| 03   | 单例模式     | Singleton Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/singleton-pattern.html) |      |      |
+| 03   | 单例模式     | Singleton Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/singleton-pattern.html) | ✅ |      |
 | 04    | 建造者模式   | Builder Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/builder-pattern.html) |      |      |
 | 05    | 原型模式   | Prototype Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/prototype-pattern.html) |      |      |
 | 06    | 适配器模式   | Adapter Pattern | [菜鸟教程](https://www.runoob.com/design-pattern/adapter-pattern.html) |      |      |
