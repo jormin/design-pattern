@@ -32,7 +32,7 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 | 01   | 工厂模式     | Factory Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319170474017) [菜鸟教程](https://www.runoob.com/design-pattern/factory-pattern.html) | ✅    |      |
 | 02   | 抽象工厂模式 | Abstract Factory Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319134822433) [菜鸟教程](https://www.runoob.com/design-pattern/abstract-factory-pattern.html) | ✅    |      |
 | 03   | 单例模式     | Singleton Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319214514210) [菜鸟教程](https://www.runoob.com/design-pattern/singleton-pattern.html) | ✅    |      |
-| 04   | 建造者模式   | Builder Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319155793953) [菜鸟教程](https://www.runoob.com/design-pattern/builder-pattern.html) |      |      |
+| 04   | 建造者模式   | Builder Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319155793953) [菜鸟教程](https://www.runoob.com/design-pattern/builder-pattern.html) | ✅ |      |
 | 05   | 原型模式     | Prototype Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319195639841) [菜鸟教程](https://www.runoob.com/design-pattern/prototype-pattern.html) |      |      |
 | 结构型 |  |  |  | | |
 | 01   | 适配器模式 | Adapter Pattern   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319245971489) [菜鸟教程](https://www.runoob.com/design-pattern/adapter-pattern.html) |      |      |
