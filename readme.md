@@ -36,7 +36,7 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 | 05   | 原型模式     | Prototype Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319195639841) [菜鸟教程](https://www.runoob.com/design-pattern/prototype-pattern.html) |      |      |
 | 结构型 |  |  |  | | |
 | 01   | 适配器模式 | Adapter Pattern   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319245971489) [菜鸟教程](https://www.runoob.com/design-pattern/adapter-pattern.html) |      |      |
-| 02   | 桥接模式   | BridgePattern     | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319266943009) [菜鸟教程](https://www.runoob.com/design-pattern/bridge-pattern.html) |      |      |
+| 02   | 桥接模式   | Bridge Pattern     | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319266943009) [菜鸟教程](https://www.runoob.com/design-pattern/bridge-pattern.html) |      |      |
 | 03   | 组合模式   | Composite Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319283720226) [菜鸟教程](https://www.runoob.com/design-pattern/composite-pattern.html) |      |      |
 | 04   | 装饰器模式 | Decorator Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319302594594) [菜鸟教程](https://www.runoob.com/design-pattern/decorator-pattern.html) |      |      |
 | 05   | 外观模式   | Facade Pattern    | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319346634785) [菜鸟教程](https://www.runoob.com/design-pattern/facade-pattern.html) |      |      |
@@ -59,7 +59,8 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 
 1. [廖雪峰-设计模式](https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528)
 2. [菜鸟-设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
-3. [知乎-Golang设计模式总结](https://zhuanlan.zhihu.com/p/437626980)
+3. [知乎-Golang设计模式](https://www.zhihu.com/column/c_1393206420800598016)
+4. [BiliBili-尚硅谷设计模式](https://www.bilibili.com/video/BV1G4411c7N4)
 
 License
 -------
