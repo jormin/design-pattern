@@ -1,4 +1,4 @@
-package demo
+package singleton_pattern
 
 import (
 	"fmt"
