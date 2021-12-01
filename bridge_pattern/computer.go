@@ -1,4 +1,4 @@
-package demo
+package bridge_pattern
 
 import "fmt"
 
