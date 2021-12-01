@@ -1,4 +1,4 @@
-package demo
+package prototype_pattern
 
 // Student 学生
 type Student struct {
