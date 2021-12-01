@@ -1,4 +1,4 @@
-package demo
+package abstract_factory_pattern
 
 import (
 	"reflect"

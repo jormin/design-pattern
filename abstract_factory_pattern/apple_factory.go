@@ -1,4 +1,4 @@
-package demo
+package abstract_factory_pattern
 
 // AppleFactory 苹果工厂
 type AppleFactory struct{}

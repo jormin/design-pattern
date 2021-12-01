@@ -1,4 +1,4 @@
-package demo
+package abstract_factory_pattern
 
 // FruitFactory 水果工厂
 type FruitFactory interface {

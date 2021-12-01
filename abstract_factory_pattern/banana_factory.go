@@ -1,4 +1,4 @@
-package demo
+package abstract_factory_pattern
 
 // BananaFactory 香蕉工厂
 type BananaFactory struct{}
