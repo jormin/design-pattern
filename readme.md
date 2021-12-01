@@ -6,7 +6,7 @@ Design Pattern
 [![Go Report Card](https://goreportcard.com/badge/github.com/jormin/design-pattern)](https://goreportcard.com/report/github.com/jormin/design-pattern)
 [![](https://img.shields.io/badge/version-v1.0.0-success.svg)](https://github.com/jormin/design-pattern)
 
-Go 实现设计模式，集合简单示例及实际例子进行说明验证。
+Go 实现设计模式，集合简单示例进行说明验证。
 
 类型
 -----
