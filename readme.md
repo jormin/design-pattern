@@ -26,7 +26,7 @@ Go 实现设计模式，集合简单示例进行说明验证。
 常用设计模式
 -----
 
-| 序号 | 类型 | 模式         | 英文                     | 文档视频                                                | 完成 |
+| 序号 | 类型 | 模式         | 英文                     | 文档                                                | 完成 |
 | ---- | ------------ | ------------------------ | ------------------------------------------------------------ | ---- | ---- |
 | 01   | 创建型 | 工厂模式     | Factory Pattern          | [深入设计模式](https://refactoringguru.cn/design-patterns/factory-method) | ✅    |
 | 02   | 创建型 | 抽象工厂模式 | Abstract Factory Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/abstract-factory) | ✅    |
