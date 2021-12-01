@@ -26,41 +26,33 @@ Go 实现设计模式，集合简单示例进行说明验证。
 常用设计模式
 -----
 
-| 序号 | 子序号 | 模式         | 英文                     | 文档视频                                                | Demo |
+| 序号 | 类型 | 模式         | 英文                     | 文档视频                                                | 完成 |
 | ---- | ------------ | ------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| 创建型 |  |  |  |  |  |
-| 01   | 01 | 工厂模式     | Factory Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319170474017) [菜鸟](https://www.runoob.com/design-pattern/factory-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/388067512) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=39) | ✅    |
-| 02   | 02 | 抽象工厂模式 | Abstract Factory Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319134822433) [菜鸟](https://www.runoob.com/design-pattern/abstract-factory-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/388067512) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=45) | ✅    |
-| 03   | 03 | 单例模式     | Singleton Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319214514210) [菜鸟](https://www.runoob.com/design-pattern/singleton-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/387357546) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=29) | ✅    |
-| 04   | 04 | 建造者模式   | Builder Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319155793953) [菜鸟](https://www.runoob.com/design-pattern/builder-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/388815746) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=55) | ✅ |
-| 05 | 05 | 原型模式     | Prototype Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319195639841) [菜鸟](https://www.runoob.com/design-pattern/prototype-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/387707620) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=49) | ✅ |
-| 结构型 |  |  |  |  | |
-| 06  | 01 | 适配器模式 | Adapter Pattern   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319245971489) [菜鸟](https://www.runoob.com/design-pattern/adapter-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/389509948) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=60) | ✅ |
-| 07 | 02 | 桥接模式   | Bridge Pattern     | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319266943009) [菜鸟](https://www.runoob.com/design-pattern/bridge-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/389870230) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=66) | ✅ |
-| 08  | 03 | 组合模式   | Composite Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319283720226) [菜鸟](https://www.runoob.com/design-pattern/composite-pattern.html) |      |
-| 09  | 04 | 装饰器模式 | Decorator Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319302594594) [菜鸟](https://www.runoob.com/design-pattern/decorator-pattern.html) |      |
-| 10 | 05 | 外观模式   | Facade Pattern    | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319346634785) [菜鸟](https://www.runoob.com/design-pattern/facade-pattern.html) |      |
-| 11 | 06 | 享元模式   | Flyweight Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319417937953) [菜鸟](https://www.runoob.com/design-pattern/flyweight-pattern.html) |      |
-| 12 | 07 | 代理模式   | Proxy Pattern     | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319432618017) [菜鸟](https://www.runoob.com/design-pattern/proxy-pattern.html) |      |
-| 行为型 |  |  |  |  | |
-| 13 | 01 | 责任链模式 | Chain of Responsibility Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319474561057) [菜鸟](https://www.runoob.com/design-pattern/chain-of-responsibility-pattern.html) |      |
-| 14 | 02 | 命令模式   | Command Pattern                 | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319491338273) [菜鸟](https://www.runoob.com/design-pattern/command-pattern.html) |      |
-| 15 | 03 | 解释器模式 | Interpreter Pattern             | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319508115489) [菜鸟](https://www.runoob.com/design-pattern/interpreter-pattern.html) |      |
-| 16 | 04 | 迭代器模式 | Iterator Pattern                | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319524892705) [菜鸟](https://www.runoob.com/design-pattern/iterator-pattern.html) |      |
-| 17 | 05 | 中介者模式 | Mediator Pattern                | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319541669922) [菜鸟](https://www.runoob.com/design-pattern/mediator-pattern.html) |      |
-| 18 | 06 | 备忘录模式 | Memento Pattern                 | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319562641441) [菜鸟](https://www.runoob.com/design-pattern/memento-pattern.html) |      |
-| 19 | 07 | 观察者模式 | Observer Pattern                | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319577321505) [菜鸟](https://www.runoob.com/design-pattern/observer-pattern.html) |      |
-| 20 | 08 | 状态模式   | State Pattern                   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319592001569) [菜鸟](https://www.runoob.com/design-pattern/state-pattern.html) |      |
-| 21 | 09 | 策略模式   | Strategy Pattern                | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319606681634) [菜鸟](https://www.runoob.com/design-pattern/strategy-pattern.html) |      |
-| 22 | 10 | 模版模式   | Template Pattern                | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319636041762) [菜鸟](https://www.runoob.com/design-pattern/template-pattern.html) |      |
-| 23 | 11 | 访问者模式 | Visitor Pattern                 | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319659110433) [菜鸟](https://www.runoob.com/design-pattern/visitor-pattern.html) |      |
+| 01   | 创建型 | 工厂模式     | Factory Pattern          | [深入设计模式](https://refactoringguru.cn/design-patterns/factory-method) | ✅    |
+| 02   | 创建型 | 抽象工厂模式 | Abstract Factory Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/abstract-factory) | ✅    |
+| 03   | 创建型 | 单例模式     | Singleton Pattern        | [深入设计模式](https://refactoringguru.cn/design-patterns/singleton) | ✅    |
+| 04   | 创建型 | 建造者模式   | Builder Pattern          | [深入设计模式](https://refactoringguru.cn/design-patterns/builder) | ✅ |
+| 05 | 创建型 | 原型模式     | Prototype Pattern        | [深入设计模式](https://refactoringguru.cn/design-patterns/prototype) | ✅ |
+| 06  | 结构型 | 适配器模式 | Adapter Pattern   | [深入设计模式](https://refactoringguru.cn/design-patterns/adapter) | ✅ |
+| 07 | 结构型 | 桥接模式   | Bridge Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/bridge) | ✅ |
+| 08  | 结构型 | 组合模式   | Composite Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/composite) |      |
+| 09  | 结构型 | 装饰器模式 | Decorator Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/decorator) |      |
+| 10 | 结构型 | 外观模式   | Facade Pattern    | [深入设计模式](https://refactoringguru.cn/design-patterns/facade) |      |
+| 11 | 结构型 | 享元模式   | Flyweight Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/flyweight) |      |
+| 12 | 结构型 | 代理模式   | Proxy Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/proxy) |      |
+| 13 | 行为型 | 责任链模式 | Chain of Responsibility Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/chain-of-responsibility) |      |
+| 14 | 行为型 | 命令模式   | Command Pattern                 | [深入设计模式](https://refactoringguru.cn/design-patterns/command) |      |
+| 15 | 行为型 | 迭代器模式 | Iterator Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/iterator) |      |
+| 16 | 行为型 | 中介者模式 | Mediator Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/mediator) |      |
+| 17 | 行为型 | 备忘录模式 | Memento Pattern                 | [深入设计模式](https://refactoringguru.cn/design-patterns/memento) |      |
+| 18 | 行为型 | 观察者模式 | Observer Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/observer) |      |
+| 19 | 行为型 | 状态模式   | State Pattern                   | [深入设计模式](https://refactoringguru.cn/design-patterns/state) |      |
+| 20 | 行为型 | 策略模式   | Strategy Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/strategy) |      |
+| 21 | 行为型 | 模版模式   | Template Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/template-method) |      |
+| 22 | 行为型 | 访问者模式 | Visitor Pattern                 | [深入设计模式](https://refactoringguru.cn/design-patterns/visitor) |      |
 
 ### 参考
-
-1. [廖雪峰-设计模式](https://www.liaoxuefeng.com/wiki/1252599548343744/1264742167474528)
-2. [菜鸟-设计模式](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
-3. [知乎-Golang设计模式](https://www.zhihu.com/column/c_1393206420800598016)
-4. [BiliBili-尚硅谷设计模式](https://www.bilibili.com/video/BV1G4411c7N4)
+1. [深入设计模式](https://refactoringguru.cn/design-patterns)
 
 License
 -------
