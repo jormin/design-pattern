@@ -35,7 +35,7 @@ Go 实现设计模式，集合简单示例及实际例子进行说明验证。
 | 04   | 建造者模式   | Builder Pattern          | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319155793953) [菜鸟](https://www.runoob.com/design-pattern/builder-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/388815746) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=55) | ✅ |      |
 | 05   | 原型模式     | Prototype Pattern        | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319195639841) [菜鸟](https://www.runoob.com/design-pattern/prototype-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/387707620) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=49) | ✅ |      |
 | 结构型 |  |  |  | | |
-| 01   | 适配器模式 | Adapter Pattern   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319245971489) [菜鸟](https://www.runoob.com/design-pattern/adapter-pattern.html) |      |      |
+| 01   | 适配器模式 | Adapter Pattern   | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319245971489) [菜鸟](https://www.runoob.com/design-pattern/adapter-pattern.html) [知乎](https://zhuanlan.zhihu.com/p/389509948) [BiliBili](https://www.bilibili.com/video/BV1G4411c7N4?p=60) | ✅ |      |
 | 02   | 桥接模式   | Bridge Pattern     | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319266943009) [菜鸟](https://www.runoob.com/design-pattern/bridge-pattern.html) |      |      |
 | 03   | 组合模式   | Composite Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319283720226) [菜鸟](https://www.runoob.com/design-pattern/composite-pattern.html) |      |      |
 | 04   | 装饰器模式 | Decorator Pattern | [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744/1281319302594594) [菜鸟](https://www.runoob.com/design-pattern/decorator-pattern.html) |      |      |
