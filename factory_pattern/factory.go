@@ -1,4 +1,4 @@
-package demo
+package factory_pattern
 
 const (
 	// FruitTypeApple 水果类型：苹果

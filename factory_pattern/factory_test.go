@@ -1,4 +1,4 @@
-package demo
+package factory_pattern
 
 import (
 	"reflect"
