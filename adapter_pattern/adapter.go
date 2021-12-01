@@ -1,4 +1,4 @@
-package demo
+package adapter_pattern
 
 import "fmt"
 
