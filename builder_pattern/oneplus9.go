@@ -1,4 +1,4 @@
-package demo
+package builder_pattern
 
 // OnePlus9Builder OnePlus9构造器
 type OnePlus9Builder struct {

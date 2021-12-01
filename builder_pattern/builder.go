@@ -1,4 +1,4 @@
-package demo
+package builder_pattern
 
 // Phone 手机
 type Phone struct {

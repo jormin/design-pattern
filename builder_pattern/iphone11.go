@@ -1,4 +1,4 @@
-package demo
+package builder_pattern
 
 // Iphone11Builder iPhone11构造器
 type Iphone11Builder struct {
