@@ -36,7 +36,7 @@ Go 实现设计模式，集合简单示例进行说明验证。
 | 06  | 结构型 | 适配器模式 | Adapter Pattern   | [深入设计模式](https://refactoringguru.cn/design-patterns/adapter) | ✅ |
 | 07 | 结构型 | 桥接模式   | Bridge Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/bridge) | ✅ |
 | 08  | 结构型 | 组合模式   | Composite Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/composite) | ✅ |
-| 09  | 结构型 | 装饰器模式 | Decorator Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/decorator) |      |
+| 09  | 结构型 | 装饰模式 | Decorator Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/decorator) | ✅ |
 | 10 | 结构型 | 外观模式   | Facade Pattern    | [深入设计模式](https://refactoringguru.cn/design-patterns/facade) |      |
 | 11 | 结构型 | 享元模式   | Flyweight Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/flyweight) |      |
 | 12 | 结构型 | 代理模式   | Proxy Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/proxy) |      |
