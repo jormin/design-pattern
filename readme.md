@@ -33,6 +33,7 @@ Go 实现设计模式，集合简单示例进行说明验证。
 | 03   | 创建型 | 单例模式     | Singleton Pattern        | [深入设计模式](https://refactoringguru.cn/design-patterns/singleton) | ✅    |
 | 04   | 创建型 | 建造者模式   | Builder Pattern          | [深入设计模式](https://refactoringguru.cn/design-patterns/builder) | ✅ |
 | 05 | 创建型 | 原型模式     | Prototype Pattern        | [深入设计模式](https://refactoringguru.cn/design-patterns/prototype) | ✅ |
+|  |  |  |  |  |  |
 | 06  | 结构型 | 适配器模式 | Adapter Pattern   | [深入设计模式](https://refactoringguru.cn/design-patterns/adapter) | ✅ |
 | 07 | 结构型 | 桥接模式   | Bridge Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/bridge) | ✅ |
 | 08  | 结构型 | 组合模式   | Composite Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/composite) | ✅ |
@@ -40,6 +41,7 @@ Go 实现设计模式，集合简单示例进行说明验证。
 | 10 | 结构型 | 外观模式   | Facade Pattern    | [深入设计模式](https://refactoringguru.cn/design-patterns/facade) |      |
 | 11 | 结构型 | 享元模式   | Flyweight Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/flyweight) |      |
 | 12 | 结构型 | 代理模式   | Proxy Pattern     | [深入设计模式](https://refactoringguru.cn/design-patterns/proxy) |      |
+|  |  |  |  |  | |
 | 13 | 行为型 | 责任链模式 | Chain of Responsibility Pattern | [深入设计模式](https://refactoringguru.cn/design-patterns/chain-of-responsibility) |      |
 | 14 | 行为型 | 命令模式   | Command Pattern                 | [深入设计模式](https://refactoringguru.cn/design-patterns/command) |      |
 | 15 | 行为型 | 迭代器模式 | Iterator Pattern                | [深入设计模式](https://refactoringguru.cn/design-patterns/iterator) |      |
